@@ -26,3 +26,5 @@ function auto(marca, modelo, annio) {  // Creas una función con los parametros 
 }
 
 var newAuto = new auto("Tesla", "Model 3", 2020);
+var newAuto2 = new auto("Tesla", "Model X", 2021);
+var newAuto3 = new auto("Toyota", "Corolla", 2019);
