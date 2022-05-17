@@ -7,7 +7,7 @@ function miFuncion1(){
 
 miFuncion1();
 
-//Expresión se les conose tambien como variables anonimas
+//Expresión se les conose tambien como funciones anonimas
 var miFuncion2 = function(a,b){
     return a + b;
 }

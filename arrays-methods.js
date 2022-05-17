@@ -36,6 +36,8 @@ var encuentraArticulos = articulos.find(function(articulo){
     return articulo.nombre === 'laptop';
 });
 
+//const encuentraArticulos = articulos.find((articulo) => articulo.nombre === 'laptop');
+
 console.log(encuentraArticulos);
 
 //   Metodo forEach

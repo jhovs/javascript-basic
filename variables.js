@@ -8,7 +8,6 @@ var edad;
 //inicializar variable 
 edad = 30;
 
-
 //array
 var elementos = ["computadora", "celular", "laptop"];
 

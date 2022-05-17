@@ -9,12 +9,14 @@
 true;
 false;
 
-//valores bacios 
+//valores basicos 
 null;
 undefined;
 
 
-/* valores tipo objetos */
+/* ## valores tipo no primitivo u objetos ## */
 //array
  [1,2,3];
+
+//tipo objeto 
 { nombre: "Jhovan"}
