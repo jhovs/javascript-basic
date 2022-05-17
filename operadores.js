@@ -32,6 +32,7 @@ a && b // operador and (y), este operador genera una valicación siempe y cuando
 true || false // operador or (o), este operador genera una validacion siempre y cuando cuaquier de as variables sea verdad, "var 1 o var 2"
 
 
+
 /* ================================================================ */ 
 
 // Operador que solo se pueden utilizar con variables 

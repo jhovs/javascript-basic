@@ -11,7 +11,8 @@ NaN
 false
 undefined
 
-//Truthy (true)
+//Truthy (true) 
+
 
 "hola"
 30
