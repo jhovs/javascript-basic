@@ -4,6 +4,8 @@
 var numero = 1; 
 var resultado; 
 
+
+
 /* Switch compara con un === por esa razón los elementos tiene que ser idénticos */ 
 
 switch (numero) {

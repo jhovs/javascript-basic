@@ -11,6 +11,7 @@ if(edad === 18){
 }
 
 
+
 //operador ternario que es como un if o else 
 condition ? true : false;
 
