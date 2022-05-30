@@ -17,7 +17,7 @@ console.log(frutas[0]);   // Los arrays iician en "0"
 
 // .push();
 
- var masFrutas = frutas.push("Uvas"); // Esté metodo añadirá "Uvas" añ final del array
+ var masFrutas = frutas.push("Uvas"); // Esté metodo añadirá "Uvas" al final del array
  console.log(frutas);
 
 // .pop();
